@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\jira-testing\jira-testing\bin\Debug\net8.0\jira-testing.exe
+C:\Users\User\source\repos\jira-testing\jira-testing\bin\Debug\net8.0\jira-testing.deps.json
+C:\Users\User\source\repos\jira-testing\jira-testing\bin\Debug\net8.0\jira-testing.runtimeconfig.json
+C:\Users\User\source\repos\jira-testing\jira-testing\bin\Debug\net8.0\jira-testing.dll
+C:\Users\User\source\repos\jira-testing\jira-testing\bin\Debug\net8.0\jira-testing.pdb
+C:\Users\User\source\repos\jira-testing\jira-testing\obj\Debug\net8.0\jira-testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\jira-testing\jira-testing\obj\Debug\net8.0\jira-testing.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\jira-testing\jira-testing\obj\Debug\net8.0\jira-testing.AssemblyInfo.cs
+C:\Users\User\source\repos\jira-testing\jira-testing\obj\Debug\net8.0\jira-testing.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\jira-testing\jira-testing\obj\Debug\net8.0\jira-testing.dll
+C:\Users\User\source\repos\jira-testing\jira-testing\obj\Debug\net8.0\refint\jira-testing.dll
+C:\Users\User\source\repos\jira-testing\jira-testing\obj\Debug\net8.0\jira-testing.pdb
+C:\Users\User\source\repos\jira-testing\jira-testing\obj\Debug\net8.0\jira-testing.genruntimeconfig.cache
+C:\Users\User\source\repos\jira-testing\jira-testing\obj\Debug\net8.0\ref\jira-testing.dll
