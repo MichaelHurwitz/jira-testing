@@ -12,3 +12,4 @@ C:\Users\User\source\repos\jira-testing\jira-testing\obj\Debug\net8.0\refint\jir
 C:\Users\User\source\repos\jira-testing\jira-testing\obj\Debug\net8.0\jira-testing.pdb
 C:\Users\User\source\repos\jira-testing\jira-testing\obj\Debug\net8.0\jira-testing.genruntimeconfig.cache
 C:\Users\User\source\repos\jira-testing\jira-testing\obj\Debug\net8.0\ref\jira-testing.dll
+C:\Users\User\source\repos\jira-testing\jira-testing\obj\Debug\net8.0\jira-testing.sourcelink.json

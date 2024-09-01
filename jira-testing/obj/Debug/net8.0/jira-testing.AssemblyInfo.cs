@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("jira-testing")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+394db99485eab4f4d5e0d0ee1ec5c0c8484443d5")]
 [assembly: System.Reflection.AssemblyProductAttribute("jira-testing")]
 [assembly: System.Reflection.AssemblyTitleAttribute("jira-testing")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
